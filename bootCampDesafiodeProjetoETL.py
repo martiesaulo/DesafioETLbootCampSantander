@@ -1,3 +1,9 @@
+# Projeto ETL – BootCamp Santander 2025
+#Extract: leitura dos dados do Excel
+#Transform: cálculo dos coeficientes de Steinhart-Hart
+#Load: escrita dos coeficientes em nova aba do Excel
+
+
 # PROGRAMA PARA OBTER OS PARÂMETROS (A, B, C) DA EQUAÇÃO DE STEINHAR-HART UTILIZANDO OS SENSORES 
 # NAS TEMPERATURAS DE  20.5°C, 35.5°C E 50.5°C
 # PELO MÉTODO DA SUBSTITUIÇÃO DIRETA
